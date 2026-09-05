@@ -1,6 +1,6 @@
 # PythonAssignments
 Core Python assignments (20 programs) submitted as ZIP file
-
+-----------------------------------------------------------------------------------------------------------------------
 • Print Numbers from 1 to 10
 
 • Multiplication Table
