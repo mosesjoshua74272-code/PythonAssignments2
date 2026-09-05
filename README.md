@@ -28,9 +28,15 @@ Core Python assignments (20 programs) submitted as ZIP file
 • Calculate Sum of List Elements 
 
 • Search an Element
+
 • Count Even and Odd Numbers
+
 • Create and Display a Tuple
+
 • Count Occurrences
+
 • Find Maximum and Minimum
+
 • Check Element in Tuple
+
 • Convert Tuple to List
